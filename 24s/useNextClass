@@ -1,0 +1,7 @@
+import next
+
+x = next.NextClass() 
+
+x.printer('hello test')
+
+print x.message
